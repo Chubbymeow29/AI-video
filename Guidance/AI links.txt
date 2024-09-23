@@ -1,0 +1,23 @@
+ttsmp3.com :    Tạo giọng đọc nước ngoài (giọng người đọc)
+ttsopenai.com:  Tạo giọng đọc nước ngoài (giọng tạo tự động)
+kreadoai.com:   Tạo giọng đọc nước ngoài (giọng người đọc)
+Leonardo AI:    Tạo hình ảnh bằng mô tả
+Vbee.vn:        Tạo giọng đọc tiếng Việt
+Mixkit.co:      Vid free có sẵn
+Canva.com:      Nơi tạo vid và hình
+Gemini.com:     Tạo script bằng AI
+Runwayml.com:   Làm hình ảnh chuyển động - short vid vài giây
+Copilot         15 lượt tạo hình nhưng tỉ lệ 1:1
+Goenhance.ai    Làm nv AI nhảy theo vid mẫu hoặc biến đổi effect vid gốc.
+Pixabay         Nhạc free k bản quyền
+App Faceplay    Chỉnh biểu cảm, ghép mặt vào vid gốc
+
+Nguồn nhạc k bản quyền
+youtube.com/audiolibrary/
+bensound.com                            Nhạc nền  
+youtube.com/c/NoCopyrightSounds         Nhạc EDM
+incompetech.com/music/royalty-free/     Nhạc nền
+www.chosic.com/free-music/all/          Kho nhạc Chosic
+musopen.org/music                       Kho nhạc Musopen
+audionautix.com/                        Kho nhạc Audionautix
+

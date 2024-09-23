@@ -1,0 +1,31 @@
+Áp dụng cho video thường / short 
+1. Dùng công cụ check key phổ biến
+2. Đặt tên vid đúng / liên quan đến nội dung, tên rõ ràng dễ hiểu kèm từ khoá hot ( check cap màn hình).
+K đặt tiêu đề giống theo kênh lớn
+3. Khi up video thì cần viết lun phần mô tả: lấy từ khoá ở phần tiêu đề vid lồng trong vòng 20 từ đầu tiên của phần mô tả để nó đc show ra khi ng xem nhìn từ bên ngoài vid.
+4. Phần mô tả vid dùng để : chú thích cho vid, link affiliate, link mxh khác của minh
+5. Hashtag: tối đa 3 cái thôi.
+6. Tự học thiết kế thumbnail bằng ytb và thực hành bằng Canvas, AI tạo ảnh
+7. Xem cách dùng VidIQ apply trên ytb
+8. Đối vs vid dài thì nên hẹn giờ ( ngay giờ vàng) để ytb xử lí độ phân giải trước rồi up đúng time 
+Theo thuật toán của ytb thì vid có phân cảnh sẽ đc ưu tiên hiển thị hơn.
+
+Phần Idea: lồng tiếng nhân vật , ghép tay chân giả cho động vật hoạt động nào đó
+
+Cải thiện view YTB SHORT (sau 24h k tăng nhiều)
+1. Chuyển vid về Riêng tư, edit bản mới đổi lại tiêu đề up lên lại.
+2. Lấy từ khóa thêm vào : tiêu đề , phần mô tả, thêm vào thẻ tag => ytb sẽ xếp hạng vid trong danh sách tìm kiếm rồi từ từ view sẽ tăng dần.
+3. Đăng lịch cố định 
+4. Đăng vid dài + shorts, shorts sẽ cắt 1 số đoạn hay, nhưng k show đoạn key và kết, để link vid dài ở phần mô tả .
+5. Post bài thông báo vid / short
+6. Tìm từ khóa => lồng ghép vào vid
+Target chọn từ khóa : Từ khóa nhiều ng kiếm mà ít ng làm => vào PromoterKit.com
+Nhập từ khóa vào xem top 3 vid đứng đầu trang tìm kiếm, xem xét mức cạnh tranh và lượng view tương ứng, nếu cạnh tranh thấp view cũng thấp (sau khi họ up đc 1 time dài) thì k nên dùng keyword đó.
+Có thể tham khảo từ khóa những kênh lớn đang dùng.
+7. Đặt tiêu đề: 
+Đưa ngay keyword lên tiêu đề ( gây tò mò)
+8. Tương tác nhiều trên ytb
+
+
+Tìm top hashtag ở đâu
+Nghiên cứu cách xem time đc view cao
